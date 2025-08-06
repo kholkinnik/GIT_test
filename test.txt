@@ -5,3 +5,4 @@ string 4
 string 5
 string 6 (test1)
 string 7 (test1)
+string 8 (test1)
