@@ -1,6 +1,8 @@
-string 100000 (test2)
+string 1
 string 2
 string 3
 string 4
-string 5 (test2)
-string 6 (test2)
+string 5
+string 6 (test1)
+string 7 (test1)
+string 8 (test1)
